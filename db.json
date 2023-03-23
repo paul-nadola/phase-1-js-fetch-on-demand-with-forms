@@ -14,6 +14,41 @@
       "id": 3,
       "title": "Spirited Away",
       "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+    },
+    {
+      "title": "Tom and Jerry the Movie",
+      "summary": "The CAT is out of the bag",
+      "id": 5
+    },
+    {
+      "title": "Moana",
+      "summary": "A girl goes out to the sea for no reason, smh!",
+      "id": 6
+    },
+    {
+      "id": 4,
+      "title": "Shrek",
+      "summary": "Movies before filter and make up!"
+    },
+    {
+      "title": "Sonic the Hedgehog",
+      "summary": "Highly recommend",
+      "id": 7
+    },
+    {
+      "title": "The Lion King",
+      "summary": "Hebu jitokezee, SIMBAAAAAA!!!",
+      "id": 8
+    },
+    {
+      "title": "Frozen",
+      "summary": "She didnt let it go thats for sure!!",
+      "id": 9
+    },
+    {
+      "title": "Boss Baby",
+      "summary": "Io nayo ni jaba!",
+      "id": 10
     }
   ]
 }
